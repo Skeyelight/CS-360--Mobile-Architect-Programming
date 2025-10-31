@@ -1,4 +1,4 @@
-# CS-360--Mobile-Architect-Programming
+# CS-360-Mobile-Architect-Programming
 
 ### Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
 The Daily Weight Tracker application was designed to allow users to quickly and easily keep track of their day-to-day weight, track a goal weight, and view their historical weights. The goal of the app was to create an intuitive application without unnecessary bloat. Perform one simple task, logging daily weights. The user needs considered in the application are making users more aware of their weight fluctuations over time, monitoring their progress, and helping them stay motivated as even small incremental gains can be encouraging.  
